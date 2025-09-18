@@ -1,66 +1,76 @@
-# React + Vite
+# Todo App (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-
-
-# 📝 To-Do App
-
-A simple and responsive **To-Do List Application** built with **React.js**.  
-This app allows users to add, delete, and manage their daily tasks with a clean and intuitive interface.
+A simple and efficient Todo application built using **React** and **Vite**. Easily manage your daily tasks with add, delete, and mark-as-complete features. Lightning-fast development and performance thanks to Vite!
 
 ---
 
 ## 🚀 Features
-- ➕ Add new tasks  
-- ✅ Mark tasks as complete  
-- ❌ Delete tasks  
-- 📱 Responsive design (works on mobile & desktop)  
-- ⚡ Built with React (fast and interactive UI)  
+
+- Add new todos
+- Delete existing todos
+- Mark todos as completed
+- Responsive UI
+- Fast build & hot-reload with Vite
 
 ---
 
-## 🛠️ Tech Stack
-- **React.js** (Frontend framework)  
-- **JavaScript (ES6+)**  
-- **CSS / TailwindCSS** (for styling – if used)  
-- **Vite / Create React App** (depending on setup)  
+## 📦 Getting Started
 
----
+Follow these steps to set up the project locally:
 
-## 📦 Installation and Setup Instructions
+### 1. Clone the repository
 
-Follow these steps to run the project locally:
-
-### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/Todo_app.git
+git clone https://github.com/Shreya-231/Todo_app.git
+cd Todo_app
+```
 
-2️⃣ Navigate to the Project Directory
-cd todo-app
+### 2. Install dependencies
 
-3️⃣ Install Dependencies
+```bash
 npm install
+```
 
-4️⃣ Start the Development Server
+### 3. Start the development server
+
+```bash
 npm run dev
+```
 
+Open [http://localhost:5173](http://localhost:5173) in your browser to view the app.
 
-or if using Create React App:
+---
 
-npm start
+## 🖼️ Screenshot
 
-5️⃣ Open in Browser
+Below is a screenshot of the Todo App interface:
 
-Visit 👉 http://localhost:5173
-(for Vite)
+![Todo App Screenshot](./screenshot.png)
 
+*If you don’t see the screenshot, make sure `screenshot.png` is present in the project root.*
 
+---
+
+## 🛠️ Built With
+
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [JavaScript]
+- [CSS]
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👩‍💻 Author
+
+- **Shreya-231**  
+  [GitHub Profile](https://github.com/Shreya-231)
+
+---
+
+Enjoy building your tasks! 🎉

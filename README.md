@@ -44,8 +44,23 @@ Follow these steps to run the project locally:
 ```bash
 git clone https://github.com/your-username/Todo_app.git
 
+2️⃣ Navigate to the Project Directory
+cd todo-app
 
-📸 Screenshots
+3️⃣ Install Dependencies
+npm install
 
-<img width="1890" height="924" alt="image" src="https://github.com/user-attachments/assets/d1e46866-f7f4-463c-833e-666c5f011a74" />
+4️⃣ Start the Development Server
+npm run dev
+
+
+or if using Create React App:
+
+npm start
+
+5️⃣ Open in Browser
+
+Visit 👉 http://localhost:5173
+(for Vite)
+
 

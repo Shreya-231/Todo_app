@@ -43,3 +43,9 @@ Follow these steps to run the project locally:
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/Todo_app.git
+
+
+📸 Screenshots
+
+<img width="1890" height="924" alt="image" src="https://github.com/user-attachments/assets/d1e46866-f7f4-463c-833e-666c5f011a74" />
+
